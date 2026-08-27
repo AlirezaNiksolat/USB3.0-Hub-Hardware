@@ -1,0 +1,15 @@
+USB3.0-Hub-Hardware/
+│
+├── README.md
+│
+├── Hardware/
+│   │
+│   ├── Schematic/
+│   │
+│   └── PCB/
+│
+├── Documentation/
+│
+├── Images/
+│
+└── Datasheets/
